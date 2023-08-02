@@ -1,0 +1,15 @@
+efirst:
+  name: "Emily First"
+  url: "https://people.cs.umass.edu/~efirst/"
+  affiliation: "UCSD"
+  img: "efirst.jpg"
+ajiang:
+  name: "Albert Q Jiang"
+  url: "https://albertqjiang.github.io/"
+  affiliation: "Cambridge"
+  img: "ajiang.jpg"
+kyang:
+  name: "Kaiyu Yang"
+  url: "https://yangky11.github.io/"
+  affiliation: "Caltech"
+  img: "kyang.jpg"

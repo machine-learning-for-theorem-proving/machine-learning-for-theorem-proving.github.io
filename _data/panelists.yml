@@ -1,0 +1,41 @@
+aanandkumar:
+  name: "Anima Anandkumar"
+  url: "http://tensorlab.cms.caltech.edu/users/anima/"
+  affiliation: "Caltech, NVIDIA"
+  img: "aandkumar.jpg"
+
+zazerbayev:
+  name: "Zhangir Azerbayev"
+  url: "https://zhangir-azerbayev.github.io/"
+  affiliation: "Princeton"
+  img: "zazerbayev.jpg"
+
+schaudhuri:
+  name: "Swarat Chaudhuri"
+  url: "https://www.cs.utexas.edu/~swarat/"
+  affiliation: "UT Austin"
+  img: "schaudhuri.jpg"
+
+ngoodman:
+  name: "Noah Goodman"
+  url: "https://cocolab.stanford.edu/ndg"
+  affiliation: "Stanford"
+  img: "ngoodman.jpg"
+
+tringer:
+    name: "Talia Ringer"
+    url: "https://dependenttyp.es/"
+    affiliation: "UIUC"
+    img: "rtalia.png"
+
+dsong:
+  name: "Dawn Song"
+  url: "http://people.eecs.berkeley.edu/~dawnsong/"
+  affiliation: "UC Berkeley"
+  img: "dsong.jpg"
+
+swelleck:
+  name: "Sean Welleck"
+  url: "https://wellecks.com/"
+  affiliation: "UW, AI2 -> CMU"
+  img: "swelleck.png"
