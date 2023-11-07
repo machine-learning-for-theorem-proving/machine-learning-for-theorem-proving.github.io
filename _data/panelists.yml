@@ -16,6 +16,11 @@ ngoodman:
   affiliation: "Stanford"
   img: "ngoodman.jpg"
 
+asanchezstern:
+  name: "Alex Sanchez-Stern"
+  url: "https://cseweb.ucsd.edu/~alexss/"
+  affiliation: "UMass Amherst"
+  img: "asanchezstern.png"
 
 dsong:
   name: "Dawn Song"
