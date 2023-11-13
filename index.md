@@ -106,7 +106,7 @@ TBA
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
 <pre><code>@misc{ml4tptutorial2023,
   author = {First, Emily and Jiang, Albert and Yang, Kaiyu},
-  title = {{NeurIPS} Tutorial on Machine Learning for Theorem Proving},
+  title = {\{NeurIPS\} Tutorial on Machine Learning for Theorem Proving},
   year = {2023},
   howpublished = {\url{https://machine-learning-for-theorem-proving.github.io}},
 }</code></pre>
