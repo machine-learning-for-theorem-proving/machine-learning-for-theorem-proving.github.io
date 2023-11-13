@@ -3,7 +3,7 @@ layout: page
 title: NeurIPS Tutorial on Machine Learning for Theorem Proving
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  New Orleans, December 11, 2023, 1:45–4:15 PM CT (tentative)
+  <a target="_blank" href="https://neurips.cc/virtual/2023/tutorial/73946">New Orleans, December 11, 2023, 1:45–4:15 PM CT (tentative)</a>
 </div>
 
 
