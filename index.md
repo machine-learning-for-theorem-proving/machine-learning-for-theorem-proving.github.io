@@ -99,4 +99,18 @@ TBA
 
 <hr>
 
+
+# Citation
+
+If you find this tutorial useful, please cite:
+
+<code>@misc{ml4tptutorial2023,
+  author = {First, Emily and Jiang, Albert and Yang, Kaiyu},
+  title = {NeurIPS 2023 Tutorial on Machine Learning for Theorem Proving},
+  year = {2023},
+  howpublished = {\url{https://machine-learning-for-theorem-proving.github.io/}},
+}</code>
+
+<hr>
+
 Contact: <machine.learning.4.theorem.proving@gmail.com>.
