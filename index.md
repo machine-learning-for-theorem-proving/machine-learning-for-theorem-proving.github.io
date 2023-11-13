@@ -104,12 +104,12 @@ TBA
 
 If you find this tutorial useful, please cite:
 
-<code>@misc{ml4tptutorial2023,
+<pre><code>@misc{ml4tptutorial2023,
   author = {First, Emily and Jiang, Albert and Yang, Kaiyu},
-  title = {NeurIPS 2023 Tutorial on Machine Learning for Theorem Proving},
+  title = {{NeurIPS} Tutorial on Machine Learning for Theorem Proving},
   year = {2023},
-  howpublished = {\url{https://machine-learning-for-theorem-proving.github.io/}},
-}</code>
+  howpublished = {\url{https://machine-learning-for-theorem-proving.github.io}},
+}</code></pre>
 
 <hr>
 
