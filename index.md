@@ -101,27 +101,28 @@ for code, reasoning, and program synthesis.
 
 ## Lean 
 
-* [LeanDojo](https://github.com/lean-dojo/LeanDojo)
-* [ReProver](https://github.com/lean-dojo/ReProver)
-* [LLMStep](https://github.com/wellecks/llmstep)
-* [Lean Copilot](https://github.com/lean-dojo/LeanDojo)
+* [LeanDojo](https://github.com/lean-dojo/LeanDojo): Extracting data and interacting with Lean
+* [ReProver](https://github.com/lean-dojo/ReProver): Training and evaluating language models for theorem proving
+* [LLMStep](https://github.com/wellecks/llmstep): Using language models to suggest proof steps
+* [Lean Copilot](https://github.com/lean-dojo/LeanDojo): Using language models to suggest proof steps, search for proofs, and select premises
 
 ## Isabelle
 
-* [PISA](https://github.com/albertqjiang/Portal-to-ISAbelle)
-* [Draft, Sketch, and Prove](https://github.com/albertqjiang/draft_sketch_prove)
+* [PISA](https://github.com/albertqjiang/Portal-to-ISAbelle): Extracting data and interacting with Isabelle
+* [Draft, Sketch, and Prove](https://github.com/albertqjiang/draft_sketch_prove): Implementation of "Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs"
 
 
 ## Coq
 
-* [CoqGym](https://github.com/princeton-vl/CoqGym)
-* [Tactician](https://coq-tactician.github.io/)
-* [Proverbot9001](https://github.com/UCSD-PL/proverbot9001)
+* [CoqGym](https://github.com/princeton-vl/CoqGym): Extracting data and interacting with Coq
+* [Tactician](https://coq-tactician.github.io/): KNNs and random forests + online learning for synthesizing proofs
+* [Proverbot9001](https://github.com/UCSD-PL/proverbot9001): RNNs for synthesizing proofs.
+* [coq-synthesis](https://github.com/agrarpan/coq-synthesis): Coq plugin for using Proverbot9001 in the proof assistant
 
 ## Others
 
-* [HOList](https://sites.google.com/view/holist/home)
-* [INT](https://github.com/albertqjiang/INT)
+* [HOList](https://sites.google.com/view/holist/home): Extracting data and interacting with HOL Light
+* [INT](https://github.com/albertqjiang/INT): Synthetic theorem proving benchmark on inequalities
 
 
 # Citation
