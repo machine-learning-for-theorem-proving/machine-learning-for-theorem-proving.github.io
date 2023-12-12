@@ -105,27 +105,27 @@ for code, reasoning, and program synthesis.
 
 ## Lean 
 
-<li><a target="_blank", href="https://github.com/lean-dojo/LeanDojo">LeanDojo</a></li>
-<li><a target="_blank", href="https://github.com/lean-dojo/ReProver">ReProver</a></li>
-<li><a target="_blank", href="https://github.com/wellecks/llmstep">LLMStep</a></li>
-<li><a target="_blank", href="https://github.com/lean-dojo/LeanDojo">Lean Copilot</a></li>
+* [LeanDojo](https://github.com/lean-dojo/LeanDojo)
+* [ReProver](https://github.com/lean-dojo/ReProver)
+* [LLMStep](https://github.com/wellecks/llmstep)
+* [Lean Copilot](https://github.com/lean-dojo/LeanDojo)
 
 ## Isabelle
 
-<li><a target="_blank", href="https://github.com/albertqjiang">PISA</a></li>
-<li><a target="_blank", href="https://github.com/albertqjiang/draft_sketch_prove">Draft, Sketch, and Prove</a></li>
+* [PISA](https://github.com/albertqjiang/Portal-to-ISAbelle)
+* [Draft, Sketch, and Prove](https://github.com/albertqjiang/draft_sketch_prove)
 
 
 ## Coq
 
-<li><a target="_blank", href="https://github.com/princeton-vl/CoqGym">CoqGym</a></li>
-<li><a target="_blank", href="https://coq-tactician.github.io/">Tactician</a></li>
-<li><a target="_blank", href="https://github.com/UCSD-PL/proverbot9001">Proverbot9001</a></li>
+* [CoqGym](https://github.com/princeton-vl/CoqGym)
+* [Tactician](https://coq-tactician.github.io/)
+* [Proverbot9001](https://github.com/UCSD-PL/proverbot9001)
 
 ## Others
 
-<li><a target="_blank", href="https://sites.google.com/view/holist/home">HOList</a></li>
-<li><a target="_blank", href="https://github.com/albertqjiang/INT">INT</a></li>
+* [HOList](https://sites.google.com/view/holist/home)
+* [INT](https://github.com/albertqjiang/INT)
 
 
 # Citation
