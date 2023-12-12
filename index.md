@@ -93,13 +93,11 @@ for code, reasoning, and program synthesis.
 <hr>
 
 
-# Materials
+# Materials and Open-Source Tools
 
 * Slides: Coming soon
 * [Demo: Using LLMs in Lean](https://github.com/yangky11/lean4-example/tree/ml4tp-tutorial)
 * [Demo: Training LLMs for Tactic Generation and Combining with Proof Search](https://github.com/yangky11/ml4tp-tutorial/blob/main/main.ipynb)
-
-# Open-Source Tools
 
 ## Lean 
 
