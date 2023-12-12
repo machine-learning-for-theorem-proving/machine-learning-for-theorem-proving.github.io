@@ -93,11 +93,39 @@ for code, reasoning, and program synthesis.
 <hr>
 
 
-# Reading Materials
+# Materials
 
-TBA
+<ul>
+<li>Slides: Coming soon</li>
+<li><a target="_blank", href="https://github.com/yangky11/lean4-example/tree/ml4tp-tutorial">Demo: Using LLMs in Lean</a></li>
+<li><a target="_blank", href="https://github.com/yangky11/ml4tp-tutorial/blob/main/main.ipynb">Demo: Training LLMs for Tactic Generation and Combining with Proof Search</a></li>
+</ul>
 
-<hr>
+# Open-Source Tools
+
+## Lean 
+
+<li><a target="_blank", href="https://github.com/lean-dojo/LeanDojo">LeanDojo</a></li>
+<li><a target="_blank", href="https://github.com/lean-dojo/ReProver">ReProver</a></li>
+<li><a target="_blank", href="https://github.com/wellecks/llmstep">LLMStep</a></li>
+<li><a target="_blank", href="https://github.com/lean-dojo/LeanDojo">Lean Copilot</a></li>
+
+## Isabelle
+
+<li><a target="_blank", href="https://github.com/albertqjiang">PISA</a></li>
+<li><a target="_blank", href="https://github.com/albertqjiang/draft_sketch_prove">Draft, Sketch, and Prove</a></li>
+
+
+## Coq
+
+<li><a target="_blank", href="https://github.com/princeton-vl/CoqGym">CoqGym</a></li>
+<li><a target="_blank", href="https://coq-tactician.github.io/">Tactician</a></li>
+<li><a target="_blank", href="https://github.com/UCSD-PL/proverbot9001">Proverbot9001</a></li>
+
+## Others
+
+<li><a target="_blank", href="https://sites.google.com/view/holist/home">HOList</a></li>
+<li><a target="_blank", href="https://github.com/albertqjiang/INT">INT</a></li>
 
 
 # Citation
