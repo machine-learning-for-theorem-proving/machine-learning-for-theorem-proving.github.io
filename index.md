@@ -95,11 +95,9 @@ for code, reasoning, and program synthesis.
 
 # Materials
 
-<ul>
-<li>Slides: Coming soon</li>
-<li><a target="_blank", href="https://github.com/yangky11/lean4-example/tree/ml4tp-tutorial">Demo: Using LLMs in Lean</a></li>
-<li><a target="_blank", href="https://github.com/yangky11/ml4tp-tutorial/blob/main/main.ipynb">Demo: Training LLMs for Tactic Generation and Combining with Proof Search</a></li>
-</ul>
+* Slides: Coming soon
+* [Demo: Using LLMs in Lean](https://github.com/yangky11/lean4-example/tree/ml4tp-tutorial)
+* [Demo: Training LLMs for Tactic Generation and Combining with Proof Search](https://github.com/yangky11/ml4tp-tutorial/blob/main/main.ipynb)
 
 # Open-Source Tools
 
