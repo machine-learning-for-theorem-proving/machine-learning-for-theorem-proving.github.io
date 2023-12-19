@@ -105,7 +105,7 @@ for code, reasoning, and program synthesis.
 * [LeanDojo](https://github.com/lean-dojo/LeanDojo): Extracting data and interacting with Lean
 * [ReProver](https://github.com/lean-dojo/ReProver): Training and evaluating language models for theorem proving
 * [LLMStep](https://github.com/wellecks/llmstep): Using language models to suggest proof steps
-* [Lean Copilot](https://github.com/lean-dojo/LeanDojo): Using language models to suggest proof steps, search for proofs, and select premises
+* [Lean Copilot](https://github.com/lean-dojo/LeanCopilot): Using language models to suggest proof steps, search for proofs, and select premises
 
 ## Isabelle
 
