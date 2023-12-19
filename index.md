@@ -95,7 +95,7 @@ for code, reasoning, and program synthesis.
 
 # Materials and Open-Source Tools
 
-* Slides: Coming soon
+* [Slides](./img/NeurIPS2023-Tutorial-ML4TP.pdf)
 * [Demo: Using LLMs in Lean](https://github.com/yangky11/lean4-example/tree/ml4tp-tutorial)
 * [Demo: Training LLMs for Tactic Generation and Combining with Proof Search](https://github.com/yangky11/ml4tp-tutorial/blob/main/main.ipynb)
 
