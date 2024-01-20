@@ -3,7 +3,7 @@ layout: page
 title: NeurIPS Tutorial on Machine Learning for Theorem Proving
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  <a target="_blank" href="https://neurips.cc/virtual/2023/tutorial/73946">New Orleans, Hall B2, Dec. 11, 2023, 1:45–4:15 PM CT</a>
+  <a target="_blank" href="https://neurips.cc/virtual/2023/tutorial/73946"><strong>Video Recording</strong></a>
 </div>
 
 
@@ -95,7 +95,7 @@ for code, reasoning, and program synthesis.
 
 # Materials and Open-Source Tools
 
-* [Video Recording](https://neurips.cc/virtual/2023/tutorial/73946)
+* **[Video Recording](https://neurips.cc/virtual/2023/tutorial/73946)**
 * [Slides](./img/NeurIPS2023-Tutorial-ML4TP.pdf)
 * [Demo: Using LLMs in Lean](https://github.com/yangky11/lean4-example/tree/ml4tp-tutorial)
 * [Demo: Training LLMs for Tactic Generation and Combining with Proof Search](https://github.com/yangky11/ml4tp-tutorial/blob/main/main.ipynb)
