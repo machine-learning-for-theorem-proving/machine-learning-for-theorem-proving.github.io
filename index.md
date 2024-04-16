@@ -99,6 +99,7 @@ for code, reasoning, and program synthesis.
 * [Slides](./img/NeurIPS2023-Tutorial-ML4TP.pdf)
 * [Demo: Using LLMs in Lean](https://github.com/yangky11/lean4-example/tree/ml4tp-tutorial)
 * [Demo: Training LLMs for Tactic Generation and Combining with Proof Search](https://github.com/yangky11/ml4tp-tutorial/blob/main/main.ipynb)
+* [A Survey on Deep Learning for Theorem Proving](https://arxiv.org/abs/2404.09939)
 
 ## Lean 
 
