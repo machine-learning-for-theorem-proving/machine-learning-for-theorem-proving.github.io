@@ -118,8 +118,9 @@ for code, reasoning, and program synthesis.
 
 * [CoqGym](https://github.com/princeton-vl/CoqGym): Extracting data and interacting with Coq
 * [Tactician](https://coq-tactician.github.io/): KNNs and random forests + online learning for synthesizing proofs
-* [Proverbot9001](https://github.com/UCSD-PL/proverbot9001): RNNs for synthesizing proofs.
+* [Proverbot9001](https://github.com/UCSD-PL/proverbot9001): RNNs for synthesizing proofs
 * [coq-synthesis](https://github.com/agrarpan/coq-synthesis): Coq plugin for using Proverbot9001 in the proof assistant
+* [CoqPyt](https://github.com/sr-lab/coqpyt): Interacting with Coq
 
 ## Others
 
